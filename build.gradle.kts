@@ -4,6 +4,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "7.0.0"
     id("io.micronaut.application") version "2.0.4"
     id("org.jetbrains.kotlin.plugin.allopen") version "1.5.21"
+    id("com.google.protobuf") version "0.8.15"
 }
 
 version = "0.1"
